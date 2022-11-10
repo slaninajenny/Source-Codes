@@ -1,2 +1,3 @@
 # Source-Codes
-Code aus SQL und Python, mit denen ich in den letzen Semestern gearbeitet habe, um ungefähr meinen Kenntnisstand widerzuspiegeln.
+Python-Code, den ich im letzten Semester im Themenbereich IoT bearbeitet hat. 
+Dieser spiegelt auch meinen Kenntnisstand in dieser Programmiersprache wider. 
